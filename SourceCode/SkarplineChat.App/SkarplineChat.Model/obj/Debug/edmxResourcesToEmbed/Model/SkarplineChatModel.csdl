@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SkarplineChatDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SkarplineChatDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserChats" EntityType="SkarplineChatDBModel.UserChat" />
+    <EntitySet Name="Users" EntityType="SkarplineChatDBModel.User" />
+    <AssociationSet Name="FK_UserChat_User" Association="SkarplineChatDBModel.FK_UserChat_User">
+      <End Role="User" EntitySet="Users" />
+      <End Role="UserChat" EntitySet="UserChats" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="UserChat">
+    <Key>
+      <PropertyRef Name="ChatId" />
+    </Key>
+    <Property Name="ChatId" Type="Guid" Nullable="false" />
+    <Property Name="MessageFrom" Type="Guid" Nullable="false" />
+    <Property Name="Message" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="MessageDateTime" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="User" Relationship="SkarplineChatDBModel.FK_UserChat_User" FromRole="UserChat" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="Guid" Nullable="false" />
+    <Property Name="UserName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="LoginDateTime" Type="DateTime" Precision="3" />
+    <Property Name="LogoutDateTime" Type="DateTime" Precision="3" />
+    <Property Name="IsLogout" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="UserChats" Relationship="SkarplineChatDBModel.FK_UserChat_User" FromRole="User" ToRole="UserChat" />
+  </EntityType>
+  <Association Name="FK_UserChat_User">
+    <End Type="SkarplineChatDBModel.User" Role="User" Multiplicity="1" />
+    <End Type="SkarplineChatDBModel.UserChat" Role="UserChat" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserChat">
+        <PropertyRef Name="MessageFrom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

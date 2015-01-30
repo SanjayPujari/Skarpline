@@ -1,0 +1,80 @@
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.App.dll.config
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.App.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.App.pdb
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Helpers.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Mvc.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Razor.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Deployment.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Razor.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Razor.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Deployment.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Razor.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Helpers.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Mvc.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\obj\Debug\SkarplineChat.App.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\obj\Debug\SkarplineChat.App.pdb
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Security.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Newtonsoft.Json.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Owin.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Security.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\Newtonsoft.Json.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\obj\Debug\SkarplineChat.App.csprojResolveAssemblyReference.cache
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Optimization.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Optimization.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\WebGrease.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\RestSharp.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\RestSharp.xml
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.Model.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\EntityFramework.dll
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.Model.pdb
+C:\Users\smita pujari\documents\visual studio 2013\Projects\SkarplineChat.App\SkarplineChat.App\bin\EntityFramework.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.App.dll.config
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.App.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.App.pdb
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Security.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Newtonsoft.Json.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Owin.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\RestSharp.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.Model.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Helpers.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Mvc.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Optimization.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Razor.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Deployment.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Razor.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\WebGrease.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\EntityFramework.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\SkarplineChat.Model.pdb
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Microsoft.Owin.Security.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\Newtonsoft.Json.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\RestSharp.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Optimization.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Razor.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Deployment.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Webpages.Razor.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Helpers.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\System.Web.Mvc.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\bin\EntityFramework.xml
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\obj\Debug\SkarplineChat.App.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\obj\Debug\SkarplineChat.App.dll
+C:\Users\a\Desktop\Sparkline\SkarplineChat.App\SkarplineChat.App\obj\Debug\SkarplineChat.App.pdb
